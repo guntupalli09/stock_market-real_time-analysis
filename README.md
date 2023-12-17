@@ -28,6 +28,8 @@ Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
    <img src="AWS Glue.png">
 4. Crawler
    <img src="Crawler.png">
+5. EC2 instance
+    <img src="EC2.png">
    
 ## Dataset Used
  https://github.com/guntupalli09/stock_market-real_time-analysis/blob/e05f3805ddb4519cb31091e04dcd9efff15eb980/indexProcessed.csv
