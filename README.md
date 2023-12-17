@@ -17,9 +17,18 @@ Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-- Apache Kafka
+6. Apache Kafka
 
-
+## Execution
+1. S3
+   <img src="Amazon S3.png">
+2.  Athena
+   <img src="Amazon Athena S3.png">
+3. Glue
+   <img src="AWS Glue.png">
+4. Crawler
+   <img src="Crawler.png">
+   
 ## Dataset Used
  https://github.com/guntupalli09/stock_market-real_time-analysis/blob/e05f3805ddb4519cb31091e04dcd9efff15eb980/indexProcessed.csv
 
