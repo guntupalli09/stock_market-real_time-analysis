@@ -23,7 +23,7 @@ Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 1. S3
    <img src="Amazon S3.png">
 2.  Athena
-   <img src="Amazon Athena S3.png">
+   <img src="Amazon Athena.png">
 3. Glue
    <img src="AWS Glue.png">
 4. Crawler
